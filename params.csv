@@ -1,0 +1,10 @@
+,learning_rate,max_depth,n_estimators,colsample_bylevel,colsample_bytree,subsample
+All MI cases,0.1,4,400,0.6,0.6,0.8
+NSTEMI,0.1,3,400,0.8,0.8,0.8
+STEMI,0.1,4,200,0.8,0.8,0.6
+Male,0.1,5,200,0.6,0.8,0.8
+Female,0.1,3,300,0.8,1,0.6
+Male with STEMI,0.1,3,300,0.6,0.8,0.8
+Female with STEMI,0.1,3,200,0.8,0.6,0.6
+Male with NSTEMI,0.1,4,200,1,0.6,0.6
+Female with NSTEMI,0.1,4,200,1,0.8,0.8
